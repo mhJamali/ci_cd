@@ -42,8 +42,6 @@ yum -y install jenkins
 
 Start Jenkins
 
-<--!# Start jenkins service-->
-
 service jenkins start
 
 **Accessing Jenkins**
